@@ -175,7 +175,6 @@ public class P2PClient {
         } catch (IOException e) {
             e.printStackTrace();
         }
-
         return onlineUsers;
     }
 
